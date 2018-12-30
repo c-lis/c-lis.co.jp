@@ -3,7 +3,7 @@ title: C-LIS Crazy Lab. 終了のお知らせ
 author: NAKABAYASHIJack
 type: post
 date: 2013-05-13T15:13:10+00:00
-url: https://www.c-lis.co.jp/2013/05/ccl_closed.html
+url: /2013/05/ccl_closed.html
 categories:
   - お知らせ
 

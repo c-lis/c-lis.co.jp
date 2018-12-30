@@ -1,0 +1,31 @@
+.navigation .navigation-title {
+  font-family: FB Benton Sans Medium;
+}
+
+.navigation-item a {
+  font-family: FB Benton Sans Medium;
+}
+
+.about h1 {
+  font-family: FB Benton Sans Regular;
+}
+
+.about h2 {
+  font-family: FB Benton Sans Regular;
+}
+
+.footer {
+  font-family: FB Benton Sans Regular;
+}
+
+article {
+  font-family: Ryumin Medium KL;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Midashi Go MB1;
+}
+
+body {
+  font-family: Ryumin Medium KL;
+}

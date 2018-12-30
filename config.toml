@@ -1,0 +1,42 @@
+baseurl = "https://www.c-lis.co.jp/"
+languagecode = "ja"
+title = "C-LIS CO., LTD."
+description = "有限会社シーリス"
+defaultContentLanguage = "ja"
+theme = "hugo-coder"
+paginate = 20
+canonifyurls = true
+googleanalytics = "UA-62496873-1"
+isServer = true
+
+[params]
+  info = "C-LIS CO., LTD. | 有限会社シーリス"
+  avatarurl = "wp-content/uploads/2013/05/logo.svg"
+  footercontent = "C-LIS CO., LTD. All rights reserved."
+  dateformat = "2006-01-01"
+  custom_css = ["css/default.css", "css/typesquare.css"]
+  typesquareCode = "ZwBLIZTRHGg="
+
+  hideCredits = true
+  hideCopyright = true
+
+[[menu.main]]
+    name = "Philosophy"
+    weight = 1
+    url  = "/our_philosophy/"
+[[menu.main]]
+    name = "Services"
+    weight = 2
+    url = "/our_services/"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "/about_us/"
+[[menu.main]]
+    name = "Contact"
+    weight = 4
+    url = "/contact/"
+[[menu.main]]
+    name = "Extras"
+    weight = 5
+    url = "/extras/"
