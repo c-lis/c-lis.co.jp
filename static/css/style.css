@@ -1,6 +1,6 @@
-@media screen and (min-width: 769px), print
-.column.is-offset-1, .column.is-offset-1-tablet {
-	margin-left: 4.2%;
+.image img {
+	margin-left: auto;
+	margin-right: auto;
 }
 .hero-body .title.is-bold {
 	font-family: FB Benton Sans Medium;
