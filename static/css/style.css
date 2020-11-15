@@ -2,6 +2,13 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+.title {
+	color: #363636;
+}
 .hero-body .title.is-bold {
-	font-family: FB Benton Sans Medium;
+	font-family: "Inter","BlinkMacSystemFont","Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	color: #363636;
+}
+.content table thead td, .content table thead th {
+	color: #616161;
 }
