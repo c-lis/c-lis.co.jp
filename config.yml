@@ -46,7 +46,7 @@ params:
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/favicon.svg"
+  favicon: "favicon/favicon.ico"
 
   # parameter used to specify if you want to minify the imported js
   jsMinify: false
