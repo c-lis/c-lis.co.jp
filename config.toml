@@ -10,7 +10,7 @@ googleanalytics = "UA-62496873-1"
 isServer = true
 
 [params]
-  info = "C-LIS CO., LTD. | 有限会社シーリス"
+  info = '世界中の"一秒"を節約する'
   avatarurl = "wp-content/uploads/2013/05/logo.svg"
   footercontent = "C-LIS CO., LTD. All rights reserved."
   dateformat = "2006-01-01"
