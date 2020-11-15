@@ -1,0 +1,26 @@
+name: Hugo-Site
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
+        with:
+          persist-credentials: false
+      - name: Setup
+        run: |
+          git submodule init
+          git submodule update
+      - name: Build Site'
+        uses: chabad360/hugo-actions@v2
+        with:
+          buildPath: ./public
+          args: --gc --cleanDestinationDir
