@@ -1,0 +1,22 @@
+- id: readMore
+  translation: "Read more"
+- id: mainMenu
+  translation: "Menu"
+- id: allTags
+  translation: "All Tags"
+- id: tags
+  translation: "Tags"
+- id: lastModified
+  translation: "最終更新"
+- id: website
+  translation: "Website"
+- id: credits
+  translation: "Credits"
+- id: copyright
+  translation: "Copyright"
+- id: contacts
+  translation: "Contacts"
+- id: homepage
+  translation: "Homepage"
+- id: licenses
+  translation: "オープンソースライセンス"  

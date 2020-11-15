@@ -1,10 +1,11 @@
 ---
-title: MoreLocale 2
-author: NAKABAYASHIJack
-type: page
-date: 2013-02-18T02:52:45+00:00
-
+title: "MoreLocale 2"
+date: 2013-02-18T02:52:45+09:00
+draft: false
+hideLastModified: false
+showInMenu: false
 ---
+
 　MoreLocale 2&#8243;は、Android端末のロケール設定の自由度を広げるアプリケーションです。
 
 ## 開発の背景
