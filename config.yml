@@ -2,6 +2,7 @@ baseURL: https://www.c-lis.co.jp
 languageCode: ja-jp
 title: 有限会社シーリス
 theme: hugo-refresh
+googleAnalytics: "UA-62496873-1"
 # theme: ../..
 
 markup:
