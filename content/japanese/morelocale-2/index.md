@@ -25,9 +25,9 @@ showInMenu: false
 </p>
 
 <p style="text-align: center;">
-  <span style="font-size: large;"><a href="archives/MoreLocale-2.3.1.apk">MoreLocale2.3.1 APK (Google Glass対応済)</a></span>
+  <span style="font-size: large;"><a href="/archives/MoreLocale-2.3.1.apk">MoreLocale2.3.1 APK (Google Glass対応済)</a></span>
 </p>
 
 <p style="text-align: center;">
-  <span style="font-size: large;"><a href="archives/MoreLocale2.1.0.zip" target="_blank">MoreLocale2 (2.1) ソースコード</a></span>
+  <span style="font-size: large;"><a href="/archives/MoreLocale2.1.0.zip" target="_blank">MoreLocale2 (2.1) ソースコード</a></span>
 </p>

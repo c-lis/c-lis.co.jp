@@ -18,7 +18,7 @@ showInMenu: false
 また、バージョン”1.00 beta”から、メッセージファイルの暗号化機能が追加されました。 メッセージファイルは、RC4互換の共通鍵ストリーム暗号方式”Arcfour”で保存されるので、暗証番号やパスワード等のその時までは秘密にしておきたい情報を安全に保存する事が出来ます。
 
 <p style="text-align: center;">
-  <strong><span style="font-size: large;"><a href="http://www.c-lis.co.jp/wp-content/uploads/2013/02/whenidie101.zip">ダウンロード</a></span></strong>
+  <strong><span style="font-size: large;"><a href="/archives/whenidie101.zip">ダウンロード</a></span></strong>
 </p>
 
  
