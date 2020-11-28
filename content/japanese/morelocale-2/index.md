@@ -1,12 +1,14 @@
 ---
 title: "MoreLocale 2"
-date: 2013-02-18T02:52:45+09:00
+date: 2020-11-28T15:30:00+09:00
 draft: false
 hideLastModified: false
 showInMenu: false
 ---
 
 　MoreLocale 2&#8243;は、Android端末のロケール設定の自由度を広げるアプリケーションです。
+
+[![Get it on Google Play](/images/google_play_logo.png)](https://play.google.com/store/apps/details?id=jp.co.c_lis.ccl.morelocale)
 
 ## 開発の背景
 
@@ -18,16 +20,8 @@ showInMenu: false
 
 　そこでシーリスは、ロケール設定の自由度を大幅に広げるアプリケーション&#8221;MoreLocale&#8221;を開発し、Google Play(当時Android Market)で無償公開しました。 MoreLocaleの登場は、世界中の開発者に開発の機会を提供しました。
 
-　現在では、渡航先で入手したAndroid端末を自国の言語で使いたい場合など、一般ユーザーの利用も増加。現在では250万ダウンロードを越え、Google Glassにも対応(XE16, APKをインストール,権限付与が必要)、世界のデファクト・スタンダードになっています。
+　現在では、渡航先で入手したAndroid端末を自国の言語で使いたい場合など、一般ユーザーの利用も増加。現在では500万ダウンロードを越え、 ~~Google Glassにも対応(XE16, APKをインストール,権限付与が必要)、~~ 世界のデファクト・スタンダードになっています。
 
-<p style="text-align: center;">
-  <span style="font-size: large;"><a href="https://play.google.com/store/apps/details?id=jp.co.c_lis.ccl.morelocale" target="_blank">Google Play MoreLocale 2</a></span>
-</p>
-
-<p style="text-align: center;">
-  <span style="font-size: large;"><a href="/archives/MoreLocale-2.3.1.apk">MoreLocale2.3.1 APK (Google Glass対応済)</a></span>
-</p>
-
-<p style="text-align: center;">
-  <span style="font-size: large;"><a href="/archives/MoreLocale2.1.0.zip" target="_blank">MoreLocale2 (2.1) ソースコード</a></span>
-</p>
+## Source code
+   * [Latest](https://github.com/keiji/morelocale/releases)
+   * [2.1](/archives/MoreLocale2.1.0.zip)
