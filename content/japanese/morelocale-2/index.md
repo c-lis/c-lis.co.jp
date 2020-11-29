@@ -23,5 +23,5 @@ showInMenu: false
 　現在では、渡航先で入手したAndroid端末を自国の言語で使いたい場合など、一般ユーザーの利用も増加。現在では500万ダウンロードを越え、 ~~Google Glassにも対応(XE16, APKをインストール,権限付与が必要)、~~ 世界のデファクト・スタンダードになっています。
 
 ## Source code
-   * [Latest](https://github.com/c-lis/morelocale/releases)
+   * [Latest(GitHub)](https://github.com/c-lis/morelocale/releases)
    * [2.1](/archives/MoreLocale2.1.0.zip)
