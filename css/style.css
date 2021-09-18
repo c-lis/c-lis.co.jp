@@ -1,0 +1,17 @@
+.image img {
+	margin-left: auto;
+	margin-right: auto;
+}
+.title {
+	color: #363636;
+}
+.title.is-1 {
+	font-size: 2.5rem;
+}
+.hero-body .title.is-bold {
+	font-family: "Inter","BlinkMacSystemFont","Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	color: #363636;
+}
+.content table thead td, .content table thead th {
+	color: #616161;
+}
