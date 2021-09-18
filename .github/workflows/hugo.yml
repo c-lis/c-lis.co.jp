@@ -22,5 +22,12 @@ jobs:
       - name: Build Site'
         uses: chabad360/hugo-actions@v2
         with:
-          buildPath: ./public
+          buildPath: ${{ github.workspace }}/public
           args: --gc --cleanDestinationDir
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: ${{ github.workspace }}/public
+          CLEAN: true  
