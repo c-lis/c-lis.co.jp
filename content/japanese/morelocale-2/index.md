@@ -22,6 +22,17 @@ showInMenu: false
 
 　現在では、渡航先で入手したAndroid端末を自国の言語で使いたい場合など、一般ユーザーの利用も増加。現在では500万ダウンロードを越え、 ~~Google Glassにも対応(XE16, APKをインストール,権限付与が必要)、~~ 世界のデファクト・スタンダードになっています。
 
+## Privacy Policy
+
+Your data belongs to you.
+
+Currently, the app doesn't declare INTERNET permission.
+
+In the near future, the app may send activity data to improve the app.
+When we do, we will clearly specify the information being sent and its purpose, update our
+privacy policy, and seek your consent again.
+We will also provide an option to stop the transmission of this information.
+
 ## Source code
    * [Latest(GitHub)](https://github.com/c-lis/morelocale/releases)
    * [2.1](/archives/MoreLocale2.1.0.zip)
